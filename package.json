@@ -1,0 +1,28 @@
+{
+  "name": "serkan-november-81",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serkan": "echo 'Benim adım Serkan'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Serkan Işık",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.6.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serkannovember1981/tutorial-1.git"
+  }
+}
